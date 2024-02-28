@@ -1,1 +1,4 @@
 Git architecture
+
+
+it consist of git and git hub
